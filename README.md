@@ -49,7 +49,3 @@ Este modelo relacional simplificado fornece uma base sólida para o gerenciament
 
 - Este documento serve como uma introdução ao modelo relacional e pode ser expandido conforme as necessidades do projeto se desenvolvem.
 - Manter a documentação atualizada é crucial para o desenvolvimento e manutenção eficientes do sistema.
-
----
-
-Este README está pronto para ser utilizado como parte da documentação do seu projeto. Se precisar de ajustes ou inclusões específicas, fique à vontade para solicitar!
